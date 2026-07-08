@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Anton Naydenov
-- 👀 I’m interested in Java Stack from Spring Framework, Project Reactor, ElasticSearch, Apache Kafka and more other very good projects
-- 🌱 I’m a beginner contributer to open source projects.
-- 📫 Reach me at email lagavas@gmail.com
+- 👋 Hi, I’m Anton Naidzenau
+- 👀 My area of ​​interest is data engineering of systems based on the JPE ETL stack with a specialization in ontological search.
